@@ -54,7 +54,7 @@ A support team drafted replies with AI, but had no way to measure them.
 Not one big workflow: one **orchestrator** calls four smaller, reusable **sub-workflows**. Each has one job and can be tested alone. The two evaluators share one pattern.
 
 <div align="center">
-<img src="images/architecture-diagram-blurred.png" alt="Orchestrator and four sub-workflows" width="900" />
+<img src="assets/architecture.svg" alt="Orchestrator and four sub-workflows, routed by intention" width="900" />
 <br><br>
 <img src="images/sub-workflows-diagram.png" alt="The three sub-workflows I built, and what each one shows" width="900" />
 </div>
